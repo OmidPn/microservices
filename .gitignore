@@ -2,6 +2,7 @@
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
+/.mvn*
 !**/src/main/**/target/
 !**/src/test/**/target/
 
@@ -32,3 +33,10 @@ build/
 
 ### VS Code ###
 .vscode/
+/movie-catalog-service/mvnw
+/movie-info-service/movie-info-service.iml
+/movie-info-service/mvnw
+/movie-info-service/mvnw.cmd
+/ratings-data-service/mvnw
+/ratings-data-service/mvnw.cmd
+/movie-catalog-service/mvnw.cmd
